@@ -1,9 +1,13 @@
 # Multi-Level Sales Dashboard
 
-This project visualizes multi-level Ice cream sales in the country using Tableau, covering national, channel, and format-level views to uncover key trends and insights.
+This project visualizes multi-level Ice cream sales in the country using Tableau, covering national, channel, and format-level views to uncover key trends and insights.  
+
+## 📚 Context
+
+In our work, we present and share predicted results with clients primarily through PowerPoint presentations or Excel reports, as these formats are widely accepted and easily understood by our audience. For this project, I wanted to experiment with creating a similar storytelling experience using Tableau. The goal was to see if Tableau's interactive capabilities could make insights more engaging while still maintaining the clarity and structure that clients are familiar with.  
 
 ## 🛠 Data Source
-- 5-year time series sales data which consists of **3 year actual sales + 2 year predicted sales data** (sample data).
+- 5-year time series sales data which consists of **3 years actual + 2 years predicted sales** (sample data).
 
 ## 📈 Dashboard Features
 - National-Level Sales Overview
